@@ -37,7 +37,7 @@ func main() {
 ```
 
 <h2 align="center">
-  <img src="./assets/banner.png" alt="header" border="0">
+  <img src="./header.png" alt="header" border="0">
 </h2>
 
 
