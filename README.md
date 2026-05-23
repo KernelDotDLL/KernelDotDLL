@@ -32,7 +32,7 @@ func main() {
 	fmt.Printf("Pronouns: %v\n", libssl.Pronouns)
 	fmt.Printf("Languages I Know: %v\n", libssl.Languages)
 	fmt.Printf("My Hobbies: %v\n", libssl.Hobbies)
-	fmt.Printf("Random Quote: %s\n", libssl.FunFact)
+	fmt.Printf("Random Quote: %s\n", libssl.RandomQuote)
 }
 ```
 
