@@ -29,10 +29,10 @@ func main() {
 		RandomQuote:   `"Physics is like sex: sure, it may give some practical results, but that’s not why we do it." - Feynman`,
 	}
 
-	fmt.Printf("Pronouns: %v\n", ethan.Pronouns)
-	fmt.Printf("Languages I Know: %v\n", ethan.Languages)
-	fmt.Printf("My Hobbies: %v\n", ethan.Hobbies)
-	fmt.Printf("Random Quote: %s\n", ethan.FunFact)
+	fmt.Printf("Pronouns: %v\n", libssl.Pronouns)
+	fmt.Printf("Languages I Know: %v\n", libssl.Languages)
+	fmt.Printf("My Hobbies: %v\n", libssl.Hobbies)
+	fmt.Printf("Random Quote: %s\n", libssl.FunFact)
 }
 ```
 
